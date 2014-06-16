@@ -1,0 +1,1384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"resi",
+				"resize_plugs"
+			],
+			[
+				"cre",
+				"create_curve"
+			],
+			[
+				"resize_",
+				"_resize_values"
+			],
+			[
+				"dx",
+				"dx0"
+			],
+			[
+				"to",
+				"toTuple"
+			],
+			[
+				"handle",
+				"handle_w"
+			],
+			[
+				"delete",
+				"deleteLater"
+			],
+			[
+				"Res",
+				"ResizeHandle"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"Qt",
+				"QtCore"
+			],
+			[
+				"v0",
+				"v0"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"up",
+				"update_compute_value"
+			],
+			[
+				"_sel",
+				"_sel_trap"
+			],
+			[
+				"set",
+				"set_highlighted"
+			],
+			[
+				"_paste",
+				"_paste_keys"
+			],
+			[
+				"crv_plug",
+				"crv_plugs"
+			],
+			[
+				"crv",
+				"crv_set"
+			],
+			[
+				"parse",
+				"_parse_mime_data"
+			],
+			[
+				"mime",
+				"mimeData"
+			],
+			[
+				"affec",
+				"affected"
+			],
+			[
+				"anim",
+				"animCurves"
+			],
+			[
+				"get",
+				"get_crv"
+			],
+			[
+				"paste",
+				"copyPaste"
+			],
+			[
+				"new",
+				"new_curves"
+			],
+			[
+				"resu",
+				"result_curves"
+			],
+			[
+				"selec",
+				"selected_items"
+			],
+			[
+				"_do",
+				"_dopeSheetWidget"
+			],
+			[
+				"press",
+				"_press_t0"
+			],
+			[
+				"select",
+				"selection_end_plug"
+			],
+			[
+				"seleced",
+				"selected_items"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"sel",
+				"sel_item"
+			],
+			[
+				"affected",
+				"set_affected"
+			],
+			[
+				"selected",
+				"selected_items"
+			],
+			[
+				"seta",
+				"set_affected"
+			],
+			[
+				"selection_start",
+				"selection_start_plug"
+			],
+			[
+				"parent",
+				"parent_item"
+			],
+			[
+				"set_hi",
+				"set_highlight_interval"
+			],
+			[
+				"set_sel",
+				"set_selection_interval"
+			],
+			[
+				"set_se",
+				"set_selection_interval"
+			],
+			[
+				"high",
+				"highlight_start_plug"
+			],
+			[
+				"_selec",
+				"_select_tool_move"
+			],
+			[
+				"create_curve",
+				"create_curve_generic"
+			],
+			[
+				"Anim",
+				"AnimCurveFloat"
+			],
+			[
+				"affe",
+				"_affected"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"walk",
+				"walk_items_breadth_first"
+			],
+			[
+				"crea",
+				"create_qactions"
+			],
+			[
+				"An",
+				"AnimCurveFloatNode"
+			],
+			[
+				"sel_trap",
+				"_sel_trap"
+			],
+			[
+				"on",
+				"on_destroy"
+			],
+			[
+				"frame",
+				"frame_to_screen"
+			],
+			[
+				"frae",
+				"frame_to_screen"
+			],
+			[
+				"_ke",
+				"_keys"
+			],
+			[
+				"set_selected",
+				"set_selected_items"
+			],
+			[
+				"state",
+				"_state_plugs"
+			],
+			[
+				"DopeSheetView",
+				"DopeSheetViewItem"
+			],
+			[
+				"dope",
+				"dopeSheetWidget"
+			],
+			[
+				"keys",
+				"_keys_plug"
+			],
+			[
+				"_keys",
+				"_keys_valid"
+			],
+			[
+				"Dope",
+				"DopeSheetViewItem"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"CURVES",
+				"CURVE_NODES_TYPES"
+			],
+			[
+				"get_ch",
+				"get_children_count"
+			],
+			[
+				"Ani",
+				"AnimCurveFloat"
+			],
+			[
+				"inter",
+				"intermediate_widget"
+			],
+			[
+				"sta",
+				"start_frame"
+			],
+			[
+				"end",
+				"end_f"
+			],
+			[
+				"start",
+				"startFrame"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"_button",
+				"_button_callback"
+			],
+			[
+				"butt",
+				"_button"
+			],
+			[
+				"setCheck",
+				"setCheckable"
+			],
+			[
+				"QP",
+				"QPushButton"
+			],
+			[
+				"add",
+				"addStretch"
+			],
+			[
+				"col",
+				"_column"
+			],
+			[
+				"DopeSheet",
+				"DopeSheetLine"
+			],
+			[
+				"curve",
+				"curve_widget"
+			],
+			[
+				"ani",
+				"anim_ty"
+			],
+			[
+				"anim_",
+				"anim_s"
+			],
+			[
+				"get_",
+				"get_value"
+			],
+			[
+				"anchorPoints",
+				"anchor_points"
+			],
+			[
+				"dra",
+				"draw_cursor"
+			],
+			[
+				"ne",
+				"newFrame"
+			],
+			[
+				"current",
+				"currentFrame"
+			],
+			[
+				"flo",
+				"FloatToV3d"
+			],
+			[
+				"f",
+				"f2v"
+			],
+			[
+				"Float",
+				"FloatToV3d"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"transl",
+				"translate"
+			],
+			[
+				"translate",
+				"translateAnim"
+			],
+			[
+				"trans",
+				"translateAnim"
+			],
+			[
+				"time",
+				"time_plug"
+			],
+			[
+				"sc",
+				"sceneGraphNode_2"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"shape",
+				"shape_1"
+			],
+			[
+				"vrt",
+				"vertex_indices"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"n_para",
+				"n_parallels-1"
+			],
+			[
+				"sub",
+				"subdiv_axis"
+			],
+			[
+				"subdiv",
+				"subdiv_height"
+			],
+			[
+				"temp",
+				"temp_normals"
+			],
+			[
+				"subdi",
+				"subdiv_height"
+			],
+			[
+				"n",
+				"nTrunkVertices"
+			],
+			[
+				"call",
+				"glCallList"
+			],
+			[
+				"dy",
+				"dy"
+			],
+			[
+				"ry",
+				"ryMatrix"
+			],
+			[
+				"rx",
+				"rxMatrix"
+			],
+			[
+				"camer",
+				"camera_transform"
+			],
+			[
+				"update",
+				"updateGL"
+			],
+			[
+				"Ui",
+				"UIPlug"
+			],
+			[
+				"node_fr",
+				"_node_from_index"
+			],
+			[
+				"from",
+				"from_parent_get_child"
+			],
+			[
+				"gel",
+				"get_children_count"
+			],
+			[
+				"node",
+				"nodeNames"
+			],
+			[
+				"_node_",
+				"_node_to_string"
+			],
+			[
+				"_fe",
+				"_refToObject"
+			],
+			[
+				"child",
+				"childPath"
+			],
+			[
+				"_str",
+				"_node_to_string"
+			],
+			[
+				"_node",
+				"_node_to_string"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"root",
+				"root_node"
+			],
+			[
+				"QL",
+				"QLabel"
+			],
+			[
+				"pick_",
+				"pick_file"
+			],
+			[
+				"Qfile",
+				"QFile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 94 files for \"depth.png\"\" (case sensitive)\n\nE:\\Antoine\\p5-sketches\\IMAGE_PROCESSING\\depthDiffuse\\depthDiffuse.pde:\n   12  \n   13  void setup(){\n   14:   iDepth = loadImage(\"../../DATA/DEPTH/depth.png\");\n   15    w = iDepth.width;\n   16    h = iDepth.height;\n\nE:\\Antoine\\p5-sketches\\IMAGE_PROCESSING\\EdgesExtraction\\EdgesExtraction.pde:\n    7  \n    8  void setup() {\n    9:   iDepth = loadImage(\"../../DATA/DEPTH/depth.png\");\n   10    w = iDepth.width;\n   11    h = iDepth.height;\n\nE:\\Antoine\\p5-sketches\\IMAGE_PROCESSING\\PoissonDiffusion\\PoissonDiffusion.pde:\n   12  \n   13  void setup(){\n   14:   iDepth = loadImage(\"../../DATA/DEPTH/depth.png\");\n   15    iDepth.resize(256,256);\n   16    w = iDepth.width;\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "IMAGE_PROCESSING/PoissonDiffusion/PoissonDiffusion.pde",
+			"settings":
+			{
+				"buffer_size": 10048,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "IMAGE_PROCESSING/EdgesExtraction/EdgesExtraction.pde",
+			"settings":
+			{
+				"buffer_size": 2553,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "CMake",
+	"command_palette":
+	{
+		"height": 173.0,
+		"selected_items":
+		[
+			[
+				"error",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"err",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"erro",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"l",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"er",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"linter",
+				"SublimeLinter: Reset"
+			],
+			[
+				"mint",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"back",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"subl",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"Sublim",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"cle",
+				"Build: Clean"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"clea",
+				"Build: Clean"
+			],
+			[
+				"bui",
+				"Build: Clean"
+			],
+			[
+				"build",
+				"Build: Build"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 111.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Antoine/p5-sketches/IMAGE_PROCESSING/CONVOLUTION_GLSL/data/convolve.frag",
+		"/E/CollodiProject/Code/Collodi/collodi/widgets/timelineWidget.py",
+		"/E/CollodiProject/Code/Collodi/collodi/widgets/curveWidget.py",
+		"/E/CollodiProject/Code/Collodi/samples/animation_model.py",
+		"/E/CollodiProject/Code/Collodi/collodi/widgets/commandLineWidget.py",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/AnimCurveFloat.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/AnimCurve.h",
+		"/E/CollodiProject/Code/Collodi/samples/curves.py",
+		"/E/CollodiProject/Code/Collodi/collodi/collodi.py",
+		"/E/CollodiProject/Code/Collodi/collodi/utils/animCurves.py",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/AnimCurveFloat.cpp",
+		"/E/CollodiProject/Code/Collodi/samples/proto_ball.py",
+		"/E/CollodiProject/Code/misc/InterpolationTesting.py",
+		"/E/CollodiProject/Code/Collodi/samples/angelo.py",
+		"/E/CollodiProject/Code/Collodi/kernel/AnimCurveFloat.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/AnimCurveFloatNode.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Plug.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/AnimCurveVector.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/AnimCurveNode.h",
+		"/E/CollodiProject/Code/Collodi/collodi/utils/copyPaste.py",
+		"/E/CollodiProject/Code/Collodi/collodi/utils/uiPlug.py",
+		"/E/test_ma.ma",
+		"/E/CollodiProject/Code/Collodi/ui/ColWidget/__init__.py",
+		"/E/CollodiProject/Code/Collodi/ui/ColWidget/GLWidget.py",
+		"/E/CollodiProject/Code/Collodi/ui/ColWidget/OutlinerWidget.py",
+		"/E/CollodiProject/Code/Collodi/ui/ColWidget/PropertySheetWidget.py",
+		"/E/CollodiProject/Code/Collodi/collodi/widgets/gl.py",
+		"/E/CollodiProject/Code/Collodi/collodi/widgets/__init__.py",
+		"/E/CollodiProject/Code/Collodi/collodi/__init__.py",
+		"/E/CollodiProject/Code/Collodi/ui/utils/__init__.py",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/FunctionPlug.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Document.cpp",
+		"/E/CollodiProject/Code/Collodi/ui/UIPlug.py",
+		"/E/CollodiProject/Code/Collodi/ui/ColWidget/CurveWidget.py",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Selection.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Selection.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/FunctionPlug.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/AnimCurveFloatNode.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/CMakeLists.txt",
+		"/E/CollodiProject/Code/Collodi/ui/ColWidget/TimelineWidget.py",
+		"/E/CollodiProject/Code/Collodi/collodi/glwidgets.py",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/FloatToV3f.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/AddNode.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/AnimCurveQuaternionNode.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/AnimCurveVectorNode.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Camera.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Float.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Value.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Value.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/QuaternionTransform.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/QuaternionTransform.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Document.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Float.cpp",
+		"/E/CollodiProject/Code/Collodi/CMakeLists.txt",
+		"/e/collodiproject/code/collodi/include/kernel/Value.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Envelope.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/ArchiveReference.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Geometry.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Geometry.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Envelope.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Joint.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Joint.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Common/stdafx.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/SkeletonValue.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/SkeletonValue.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Gizmo.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Skeleton.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Gizmo.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/V3d.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Skeleton.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/SetPlugValue.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/__init__.py",
+		"/E/CollodiProject/Code/Collodi/kernel/lib/Kernel/kernel.dir/Debug/custombuild.command.1.tlog",
+		"/E/CollodiProject/Code/Collodi/kernel/lib/Kernel/kernel.vcxproj",
+		"/E/CollodiProject/Code/Collodi/kernel/lib/Kernel/kernel.vcxproj.filters",
+		"/E/CollodiProject/Code/Collodi/kernel/QtPlug.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/qtplug.py",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Gizmo.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/SetPlugValue.h",
+		"/E/CollodiProject/Code/Collodi/include/Common/range.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/GeometryReader.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/GeometryReader.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/RendererGL.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/SceneGraphNode.h",
+		"/E/CollodiProject/Code/Collodi/ui/utils/AnimCurves.py",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/V3f.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/SceneGraphNode.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Quatf.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Plug.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/M44f.h",
+		"/E/CollodiProject/Code/Collodi/kernel/plug.py",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/QtPlug.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/AnimCurveQuaternion.h",
+		"/E/CollodiProject/Code/Collodi/collodi/command.py",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/AnimCurveVector.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/AnimCurveQuaternion.cpp",
+		"/E/CollodiProject/Code/Collodi/ui/__init__.py",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/QtPlug.h",
+		"/E/CollodiProject/Code/Collodi/kernel/lib/Kernel/kernel.dir/Debug/CL.5596.read.1.tlog",
+		"/E/CollodiProject/Code/Collodi/kernel/lib/Kernel/kernel.dir/Debug/CL.3956.read.1.tlog",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Node.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Bool.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Node.h",
+		"/E/CollodiProject/Code/Collodi/scripts/metagen.py",
+		"/E/CollodiProject/Code/Collodi/kernel/object.py",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/RendererGL.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/node.py",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/RenderStateGL.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/Quatf.cpp",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/V3f.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/Camera.h",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/FloatToV3f.h",
+		"/E/CollodiProject/Code/Collodi/kernel/AnimCurveQuaternion.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/AnimCurveVector.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/FloatToV3d.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/floattov3d.py",
+		"/E/CollodiProject/Code/Collodi/kernel/lib/Kernel/Debug/kernel.ilk",
+		"/E/CollodiProject/Code/Collodi/kernel/Quatd.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/quatd.py",
+		"/E/CollodiProject/Code/Collodi/kernel/V3d.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/kernel/v3d.py",
+		"/E/CollodiProject/Code/Collodi/kernel/M44f.meta.cpp",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/ArchiveReference.h",
+		"/E/CollodiProject/Code/Collodi/lib/Kernel/M44f.cpp",
+		"/E/CollodiProject/Code/Collodi/ui/ColWidget/CommandLineWidget.py",
+		"/E/CollodiProject/Code/Collodi/include/Kernel/FloatToV3d.h",
+		"/E/CollodiProject/old_stuff/00_pysideSamples/Enjoy-Qt-Python-Binding-master/Enjoy-Qt-Python-Binding-master/style_and_theme/cocoa_textured_window.py",
+		"/E/CollodiProject/old_stuff/00_pysideSamples/Enjoy-Qt-Python-Binding-master/Enjoy-Qt-Python-Binding-master/style_and_theme/css_style.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\Antoine\\p5-sketches",
+			"E:\\CollodiProject\\Code\\Collodi",
+			"E:\\Collodi\\kernel",
+			"E:\\Antoine\\PySide\\Examples-master",
+			"E:\\Antoine\\PySide",
+			"E:\\Antoine\\PySide\\Examples-master",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\"depth.png\"",
+			"depth.png\"",
+			"resize_plugs",
+			"self._resize_data",
+			"self._resize_values",
+			"globalPos",
+			"set_selection_interval",
+			"t0, t1",
+			"_drag_t",
+			"set_plug_value",
+			"setCurs",
+			"x0",
+			"right",
+			"1",
+			"0",
+			"min",
+			";\n",
+			"std::shared",
+			"min",
+			"fw_it0",
+			"virtual",
+			"it",
+			":.3f",
+			"[]",
+			"[0]",
+			"d",
+			"p0",
+			"modifier",
+			"drawline",
+			"e.mimeData().text()",
+			" value",
+			" factor",
+			"factor",
+			"painter.dra",
+			"_init_drag_data",
+			"lf.paren().",
+			"_init_drag_data",
+			"yep",
+			"self._tree.setMinimumSize",
+			"_freeze_",
+			"mouseDoubleClickEvent",
+			"_freeze_highlight",
+			" set_too",
+			".set_too",
+			"set_tool",
+			"_move_mouse_press",
+			"_set_curve",
+			"mimeData",
+			"self.btn",
+			"QtGui.QPushButton",
+			"debug_colour_background",
+			"self._set_tool",
+			"_set_tool",
+			"setCurs",
+			"self._tool_high",
+			"_set_tool",
+			"_tool_highlight",
+			"print('  Item.",
+			"print('View.drag",
+			"print(' View.",
+			"print('",
+			"print",
+			"set_selection_interval(",
+			"ime_plug",
+			"            x, y = event.pos().toTuple()\n            w, h = self.size().toTuple()\n            start_f = self._dopeSheetWidget.start_frame\n            end_f = self._dopeSheetWidget.end_frame\n            t = screen_to_frame(x, w, start_f, end_f, round_frame=True)",
+			"_move_mouse_press",
+			"        del self._drag_t",
+			"_parse_mime_data",
+			"pasted_keys",
+			"self.drag_t1",
+			"old_curves, crv_plugs, pairs",
+			"self._drag_plugs_map",
+			"self._drag_affected_plugs",
+			"self._drag_paste_plugs",
+			"modifier = self",
+			"modifier",
+			"_paste_keys",
+			".set_value",
+			"_paste_keys_match_plugs",
+			"self._paste_keys",
+			"self._dopeSheetWidget._view",
+			"pasted_keys",
+			"check_mime_data",
+			"set_tool",
+			"_select_mouse_press",
+			"<",
+			"  Item.",
+			"dragMove",
+			"mimeData",
+			"mime",
+			"self._mouse_track",
+			"print('Item.",
+			"def mouse",
+			"set_k",
+			"to_insert_keys",
+			"et_crv",
+			"levenshtein(",
+			"animCurves.get_keys_getter_and_setter",
+			"get_keys_getter_and_setter",
+			"result",
+			"'  '*level",
+			"'",
+			"_children",
+			"_keys_valid",
+			"_update_key_items",
+			"selection_interval_changed",
+			"highlight_interval_changed",
+			"set_tool",
+			"AnimCurves",
+			"animCurves",
+			"get_affected_curve_plugs",
+			"  print",
+			"_update_selection",
+			"_collapse",
+			"selected",
+			"affected=",
+			"affected",
+			"modifier.",
+			"set_selection_interval",
+			".selection_end_plug",
+			"self._press_modifier",
+			"modifier",
+			"_update_affected",
+			"walk_items_depth_first",
+			"set_highlighted",
+			"selection",
+			"highlight_start_plug",
+			"_update_and_paint_keys"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"../../DATA/DEPTH/depth.png\"",
+			"from utils.animCurves import",
+			"from widget.commandLine import",
+			"from utils.uiPlug import",
+			"from widgets.timelineWidget import",
+			"Float::create(0.f)",
+			"FunctionPlug",
+			"Quatf",
+			"V3f",
+			"add_node_to_parent(parent, node",
+			"node = std::make_shared<AnimCurv",
+			"add_node_to_parent",
+			"Quatf",
+			"V3f",
+			"Imath::Quatf",
+			"as_M44f",
+			"\"M44f.h\"",
+			"\"Kernel/M44f.h\"",
+			"Matrix.h\"",
+			"Imath::M44f",
+			"M44f.h\"",
+			"  } else {\n    std::cout << \"Trying to evaluate unknown plug \";\n    std::cout << plug.get_name() << std::endl;\n  }",
+			"  } else {\n    std::cout << \"Trying to evaluate unknown plug \";\n    std::cout << plug.get_name() << std::endl;\n    return Value::create(0.)\n  }",
+			"kernel",
+			"QuaternionTransform",
+			"'E:/Collodi/kernel/x64/Debug/kernel.dll'",
+			"'E:/Collodi/kernel/x64/Release/kernel.dll'",
+			"'E:/Collodi/kernel/x64/Debug/kernel.dll'",
+			"'E:/Collodi/kernel/x64/Release/kernel.dll'",
+			"E:/Collodi/kernel/x64/Release/kernel.dll",
+			"kernel/x64/Release/kernel.dll",
+			"/kernel/x64/Release/kernel.dll",
+			"kernel/x64/Release/kernel.dll",
+			"x64/Release/kernel.dll",
+			"E:/Collodi/kernel/x64/Release/kernel.dll"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										200,
+										210
+									],
+									[
+										432,
+										432
+									],
+									[
+										655,
+										655
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "IMAGE_PROCESSING/PoissonDiffusion/PoissonDiffusion.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "dark",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "IMAGE_PROCESSING/EdgesExtraction/EdgesExtraction.pde",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "dark",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"project": "p5-sketches.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\CollodiProject\\Code\\misc\\InterpolationTesting.py"
+			],
+			[
+				"569",
+				"kernel\\lib\\Kernel\\kernel.dir\\Debug\\CL.5596.read.1.tlog"
+			],
+			[
+				"395",
+				"kernel\\lib\\Kernel\\kernel.dir\\Debug\\CL.3956.read.1.tlog"
+			],
+			[
+				"err",
+				"PySide\\PyOpenGL_examples\\OpenGLContext-2.2.0a3\\OpenGLContext\\resources\\red_arrow_right_png.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

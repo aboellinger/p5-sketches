@@ -11,7 +11,7 @@ int h;
 int iteration=0;
 
 void setup(){
-  iDepth = loadImage("depth.png");
+  iDepth = loadImage("../../DATA/DEPTH/depth.png");
   w = iDepth.width;
   h = iDepth.height;
   println("w : "+w+"   h : "+h);

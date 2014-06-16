@@ -1,11 +1,15 @@
+PImage image;
 
 float[] u;
 float[] v;
 void setup(){
   colorMode(RGB,1.0);
-  size(500,500);
-  initialize();
   
+  image = loadImage("../../DATA/DEPTH/depth.png");
+ 
+  size(image.width, image.height);
+  
+  initialize();  
 }
 
 
@@ -13,12 +17,15 @@ void setup(){
 void initialize(){
   u = new float[width*height];
   for (int i=0; i<u.length; ++i){
-    u[i] = random(1);
+    //u[i] = random(1);
+    //u[i] = 0.5;
+    
+    u[i] = (image.pixels[i] & 0xff)/255.f;
   }
   
   u = fastGaussian(u, width, height);
-  u = fastGaussian(u, width, height);
-  u = fastGaussian(u, width, height);
+  //u = fastGaussian(u, width, height);
+  //u = fastGaussian(u, width, height);
   //addPerturbation(u, width/2, height/2);
 }
 
@@ -102,5 +109,10 @@ void mouseDragged(){
   int y = mouseY;
 
   addPerturbation(u,x,y);
+}
+
+void keyPressed(){
+ save("../../result.png");
+ print("Saving result.png\n");
 }
 

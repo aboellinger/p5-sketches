@@ -1,8 +1,11 @@
 PImage image;
 
+boolean show_r, show_g, show_b; 
 float[] u_r, u_g, u_b;
+
 void setup(){
   colorMode(RGB,1.0);
+  show_r = show_g = show_b = true;
   
   //image = loadImage("../../DATA/DEPTH/depth.png");
   image = loadImage("../../DATA/PHOTO/Koala_mini.jpg");
@@ -12,16 +15,14 @@ void setup(){
   initialize();  
 }
 
-
-
 void initialize(){
   u_r = new float[width*height];
   u_g = new float[width*height];
   u_b = new float[width*height];
   for (int i=0; i<width*height; ++i){
-    u_r[i] = (image.pixels[i] & 0xff)/255.f;
+    u_b[i] = (image.pixels[i] & 0xff)/255.f;
     u_g[i] = ((image.pixels[i] >> 8) & 0xff)/255.f;
-    u_b[i] = ((image.pixels[i] >> 16) & 0xff)/255.f;
+    u_r[i] = ((image.pixels[i] >> 16) & 0xff)/255.f;
   }
   
   u_r = fastGaussian(u_r, width, height);
@@ -48,9 +49,9 @@ void draw(){
   
   loadPixels();
   for (int i=0; i<pixels.length; ++i){
-    float r = map(u_r[i], 0, 1, 0, 1);
-    float g = map(u_g[i], 0, 1, 0, 1);
-    float b = map(u_b[i], 0, 1, 0, 1);
+    float r = (show_r)?map(u_r[i], 0, 1, 0, 1):0;
+    float g = (show_g)?map(u_g[i], 0, 1, 0, 1):0;
+    float b = (show_b)?map(u_b[i], 0, 1, 0, 1):0;
     pixels[i] = color( r, g, b );
   }
   updatePixels();
@@ -118,7 +119,18 @@ void mouseDragged(){
 }
 
 void keyPressed(){
- save("../../result.png");
- print("Saving result.png\n");
+ if (key == 'r' || key == 'R') {
+   show_r = !show_r;
+ }
+ if (key == 'g' || key == 'G') {
+   show_g = !show_g;
+ }
+ if (key == 'b' || key == 'B') {
+   show_b = !show_b;
+ }
+ if (key == 's' || key == 'S') {
+   save("../../result.png");
+   print("Saving result.png\n");
+ }
 }
 
